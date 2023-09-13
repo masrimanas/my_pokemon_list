@@ -1,0 +1,11 @@
+<svg cache-id="e23ac667dd3a45a8977828415fad14ab" id="pokeball" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"
+    shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <path id="pokeball-s-path1"
+        d="M12,22c5.523,0,10-4.477,10-10s-4.477-10-10-10-10,4.477-10,10s4.477,10,10,10Z"
+        stroke="#fff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="pokeball-s-path2"
+        d="M12,15c1.656854,0,3-1.343146,3-3s-1.343146-3-3-3-3,1.343146-3,3s1.343146,3,3,3Z"
+        fill="none" stroke="#fff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path id="pokeball-s-path3" d="M2,12h7m6,0h7" fill="none" stroke="#fff" stroke-width="1" />
+</svg>
